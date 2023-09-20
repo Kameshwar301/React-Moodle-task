@@ -1,0 +1,162 @@
+.homeBackground{
+    background-image: url('https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+   
+}
+.firstTitle{
+    text-align: center;
+    font-weight: 500;
+    font-size: 4rem;
+}
+.firstImage{
+    height: 75vh;
+    width: 35vw;
+    background-color: aqua;
+    margin: auto;
+    position: relative; 
+}
+.imageone{
+text-align: center;
+position: relative;
+top: 2em;
+}
+.row{
+    width: 100%;
+}
+.superRCB{
+    display: flex;
+    justify-content: end;
+}
+.superCSK{
+    display: flex;
+    justify-content: start;
+}
+.socialBackground{
+    background-image: url('https://wallpapers.com/images/featured/cosmic-pictures-d1mir578zfqq9syx.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin: 1px;
+    position: relative;
+   
+}
+.socialContent{
+    margin: auto;
+    height: 50vh;
+    width: 30vw;
+    padding: 1rem;
+    text-align: center;
+    position: relative;
+    top: 25%;
+}
+.buttonTitle{
+    position: relative;
+    top: 30%;
+}
+.socialBackground .title{
+    font-size: 50px;
+}
+.buttonCollection{
+    position: relative;
+    top: 30%;
+}
+ul{
+    display: flex;
+    justify-content: center;
+}
+ul li{
+    list-style-type: none;
+    margin-left: 1rem;
+    font-size: xx-large;
+    
+}
+.noteTitle{
+    height: 80vh;
+    margin: auto;
+}
+.alertName{
+    position: relative;
+    
+}
+.alertOne {
+    margin: auto;
+
+    font-size: xx-large;
+}
+.card{
+    position: relative;
+    top: 25%;
+    
+}
+.loginBackground{
+    background-image: linear-gradient(to right, rgb(117, 2, 184),rgb(177, 15, 177));
+    
+    width: 100%;
+    padding: 5%;
+}
+.loginLogo{
+    width: 20vw;
+    position: relative;
+    margin: auto;
+    left: 10%;
+    top: 20%;
+}
+.img-fluid{
+    width: 50%; 
+}
+.loginUser{
+    border: 1px solid black;
+    width: 20vw;
+    background-color: grey;
+}
+.eMail{
+    border: none;
+    background: transparent;
+}
+.loginPassword{
+    border: 1px solid black;
+    width: 20vw; 
+    background-color: grey;
+}
+.loginBackground .password{
+    border: none;
+    background: transparent;
+}
+.btn{
+    width: 11.5rem;
+    background-color: rgb(116, 187, 10);
+    /* border-style: none; */
+}
+.userLink{
+    color: greenyellow;
+}
+.createAccount{
+    color: greenyellow;
+}
+.technology{
+    background-color: aqua;
+  }
+  .technology .card{
+    border-radius: 20px;
+  }
+  .technology h1{
+    text-align: center;
+  }
+  .technology .subtitle{
+    text-align: center;
+  }
+  .technology .DS{
+    box-shadow: 0px -5px red;
+  }
+  .technology .IOT{
+    box-shadow: 0px -5px rgb(85, 191, 233);
+  }
+  .technology .VR{
+    box-shadow: 0px -5px rgb(7, 172, 7);
+  }
+  .technology .ML{
+    box-shadow: 0px -5px rgb(228, 228, 49);
+  }
